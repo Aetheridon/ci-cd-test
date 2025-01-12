@@ -69,5 +69,3 @@ node_modules/
 .dataconnect
 
 #firebase
-firebase.json
-.firebaserc
